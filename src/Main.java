@@ -16,9 +16,5 @@ public class Main {
         System.out.println(numbers.hashCode());
         numbers.addAll(nums);
         System.out.println(numbers.hashCode());
-
-
-
     }
-
 }
